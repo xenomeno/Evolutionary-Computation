@@ -99,8 +99,8 @@ NOTE: Bitmap file saving implementation is in pure Lua and is very slow but is j
 ![](EC/Figure6_49.bmp?raw=true "Figure 6.49")
 ![](EC/Figure6_50.bmp?raw=true "Figure 6.50")
 ![](EC/Figure6_51.bmp?raw=true "Figure 6.51")
-![](EC/Figure6_53.bmp?raw=true "Figure 6.52)
-![](EC/Figure6_53.bmp?raw=true "Figure 6.53)
+![](EC/Figure6_53.bmp?raw=true "Figure 6.52")
+![](EC/Figure6_53.bmp?raw=true "Figure 6.53")
 
 # Chapter 7
 
